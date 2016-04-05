@@ -2,5 +2,6 @@
 2
 3
 release1  111
+release1  testGit2 xxx
 release1  testGit 111
 release1  testGit 222
